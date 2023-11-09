@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "d5809b242a16f7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1fee876cf87b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7255f17d05e4de71",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee7d99526c444194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Mindful Habit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d858c8e189c4527",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d49a68e55a87d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13fe061cf852ee66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65d168879eb571e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2abb1f8a379538ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4220d4eab58e7f24",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "017326868cb5c635",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef1acf6c51c8838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18484b8899f5ce09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettlekasten/Mindful Habit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f2ac1ce453e223a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettlekasten/Mindful Habit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7263684a43ae83b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecd6f9bc97cbd58e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettlekasten/Mindful Habit.md"
+              }
+            }
+          },
+          {
+            "id": "836ff140547a2910",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "ee7d99526c444194",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Zettlekasten/Mindful Habit.md",
+    "Untitled.canvas",
+    "Zettlekasten/Material Evil.md",
+    "Zettlekasten/Habits.md",
+    "Zettlekasten/Emotions are energy.md",
+    "Zettlekasten/Appreciation Men and Women Love.md",
+    "Zettlekasten/2023-11-09.md",
+    "Zettlekasten/Mindset/Praise the Effort, Not the person.md",
+    "Zettlekasten/.md",
+    "Zettlekasten/Maybe you should talk to someone/A Soothing Voice .md",
+    "Zettlekasten/Maybe you should talk to someone",
+    "Zettlekasten/Big think/Models of Desire.md",
+    "Zettlekasten/Big think/Mental Chatter.md",
+    "Zettlekasten/Mindset/Boys are usually more scolded and punished.md",
+    "Zettlekasten/parenting.md",
+    "Zettlekasten/mindset.md",
+    "Zettlekasten/Mindset/Intelligence is created.md",
+    "Zettlekasten/Big think",
+    "Zettlekasten/Mindset/Praising children.md",
+    "Zettlekasten/Mindset/Girls tend to agree with other opinions too much.md",
+    "Zettlekasten/Mindset/A Fixed Mindset avoids challenges.md",
+    "Zettlekasten/Mindset",
+    "Zettlekasten/big-think.md",
+    "Zettlekasten/Pro Level.md",
+    "Templates/{{title}}.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Zettlekasten/puli.md",
+    "Zettlekasten/ASDASD.md",
+    "Templates",
+    "Files",
+    "Zettlekasten",
+    "2023-07-20.md",
+    "Untitled 2.canvas",
+    "Celonis.md"
+  ]
+}
